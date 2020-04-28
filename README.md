@@ -1,0 +1,3 @@
+# bonkvim
+
+Personal Vim config.

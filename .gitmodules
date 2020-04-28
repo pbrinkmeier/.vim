@@ -1,0 +1,3 @@
+[submodule "pack/bonkpack/start/ctrlp.vim"]
+	path = pack/bonkpack/start/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim
